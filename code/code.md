@@ -169,6 +169,8 @@ void setSunshineBrightness(int brightness) {
 }
 ```
 Sunny(不渐变版）：
+
+```C++
 #include <Adafruit_NeoPixel.h>
 
 #define NUM_LEDS 120
